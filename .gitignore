@@ -1,0 +1,4 @@
+.DS_Store
+backend.tf
+.terraform
+.terraform.lock.hcl
